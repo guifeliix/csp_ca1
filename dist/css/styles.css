@@ -75,6 +75,18 @@
     scroll-behavior: smooth;
   }
 }
+/* Added those on the bootstrap CSS file to adjust the size of the image
+ */
+.column {
+  float: left;
+  width: 33,3%;
+  padding: 3px;
+
+}
+
+.column img {
+  height: 300px;
+}
 
 body {
   margin: 0;
