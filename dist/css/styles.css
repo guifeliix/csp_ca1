@@ -10,33 +10,6 @@
  * Copyright 2011-2021 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
-
-
-/* Added those on the bootstrap CSS file to adjust the size of the image
- */
- .column {
-  float: left;
-  width: 33,3%;
-  padding: 3px;
-
-}
-
-.column img {
-  height: 300px;
-}
-
-
-#IDfooter {
-  background-color: #212529;
-  color: white;
-  font-size: 18px;
-  text-align: center;
-  padding: 3px;
-  
-}
-
-
-
 :root {
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;
@@ -102,7 +75,6 @@
     scroll-behavior: smooth;
   }
 }
-
 
 body {
   margin: 0;
